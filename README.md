@@ -12,3 +12,13 @@ The Back-end is built using Node.js and Express.js. It serves as the backbone of
 
 2. Install dependencies:
  npm install
+
+3. go to mongodb atlas 
+and create account to create new connect
+
+
+
+Run the Server
+Start the server with:
+
+npm start
